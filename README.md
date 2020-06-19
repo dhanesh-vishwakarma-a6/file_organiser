@@ -1,5 +1,5 @@
 ## File Organizer
-This is a file organizer
+
 
 ## Getting Started
 
@@ -12,10 +12,13 @@ Python 3.x
 ```
 
 ## Usage
-* To run this program from command prompt use following command:
 
-```bash
+* Clone repository [https://github.com/dhanesh-vishwakarma-a6/file_organiser]
+* open Terminal by Ctrl + Alt + T (Linux)
+
+```terminal
 python organizer.py --path <directory> --by <options>
+```
 
 * Note: by defalut it will arrange the **PWD (Present Working Directory)** by extension
 
@@ -29,3 +32,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
