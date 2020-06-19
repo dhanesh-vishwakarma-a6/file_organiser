@@ -13,16 +13,14 @@ Python 3.x
 
 ## Usage
 
-* Clone repository [https://github.com/dhanesh-vishwakarma-a6/file_organiser]
+* Clone repository (https://github.com/dhanesh-vishwakarma-a6/file_organiser)
 * open Terminal by Ctrl + Alt + T (Linux)
 
 ```terminal
 python organizer.py --path <directory> --by <options>
 ```
 
-* Note: by defalut it will arrange the **PWD (Present Working Directory)** by extension
-
-
+* Note: by defalut it will arrange the **PWD** (Present Working Directory) by extension
 
 
 ## Contributing
