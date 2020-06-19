@@ -1,5 +1,5 @@
 ## File Organizer
-File orgainzer is a utility tool for arranging bunch of junk files into a folder.
+File orgainzer is a utility tool for arranging bunch of junk files into a folder. 
 Arranging can be done by extensions, size, or last used.
 
 
