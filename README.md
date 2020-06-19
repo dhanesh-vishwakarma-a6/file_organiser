@@ -11,9 +11,10 @@ Python 3.x
 
 ## Usage
 
-* Clone repository https://github.com/dhanesh-vishwakarma-a6/file_organiser
-* open Terminal by **Ctrl + Alt + T** (*Linux*)
-* open cmd by **window + R** and type **cmd** (*Windows**)
+* [Clone repository](https://github.com/dhanesh-vishwakarma-a6/file_organiser)
+* Open Command Line Interface
+    * For *Linux* user - open Terminal by **Ctrl + Alt + T** 
+    * for *Windows* user - open cmd by **window + R** and type **cmd**
 * Enter the following
 
 ```terminal
@@ -28,7 +29,7 @@ python organizer.py --path <directory> --by <options>
 
 ## Built With
 
-* [Python](https://www.python.org/) - Language used for the program.
+* Used [Python](https://www.python.org/) for the program.
 
 
 ## Version
