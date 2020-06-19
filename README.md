@@ -12,8 +12,8 @@ Python 3.x
 ## Usage
 
 * Clone repository https://github.com/dhanesh-vishwakarma-a6/file_organiser
-* open Terminal by *Ctrl + Alt + T* (**Linux**)
-* open cmd by *window + R* and type *cmd* (**Windows**)
+* open Terminal by **Ctrl + Alt + T** (*Linux*)
+* open cmd by **window + R** and type **cmd** (*Windows**)
 * Enter the following
 
 ```terminal
